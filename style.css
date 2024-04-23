@@ -1,0 +1,93 @@
+.nav_top{
+	background-color: #F2F2F2;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+    right: 0px;
+}
+a{
+	margin-top: 0px;
+	color: #212038;
+	font-size: 13px;
+	text-decoration: none;
+   font-family: Currys Sans;
+}
+.first{
+	margin-left: 730px;
+}
+.second{
+	margin-left: 10px;
+}
+.nav_top a:hover{
+	text-decoration: underline;
+}
+.logo{
+	margin-top: 33px;
+	margin-left: 30px;
+    
+}
+.bar{
+	margin-left: 140px;
+	margin-top: 0px;a
+}
+.search{
+	border-radius: 25px;
+	border-color: #CDD8DF;
+	padding: 10px;
+	padding-left: 25px;
+	width: 300px;
+	margin-left:5px ;
+	outline-color:#461194;
+    position: relative;
+}
+.s{
+
+	margin-left: 20px;
+	font-family:sans-serif;
+}
+
+
+.d{
+	float: right;
+	margin-right: 30px;
+	font-family: sans-serif;
+}
+
+.brand{
+	float: right;
+	margin-right: 30px;
+	font-family: sans-serif;
+}
+
+.deal{
+		float: right;
+	margin-right: 30px;
+	font-family: sans-serif;
+
+
+}
+ a:hover{
+ 	text-decoration: underline;
+ 	text-decoration-color: #E5006D;
+ }
+
+.deal a:hover{
+	text-decoration: underline;
+	text-decoration-color: white;
+}
+hr{
+	color: #CDD8DF;
+}
+
+.y{
+margin-left:  45px;
+color: #4C28A4;
+}
+.x{
+	margin-left: 15px;
+	color: #4C28A4;
+}
+
+.rex a:hover{
+	text-decoration: underline;
+}
